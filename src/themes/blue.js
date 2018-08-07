@@ -1,1 +1,2 @@
-import './blue.css';
+import blue from './blue.css';
+export default blue;

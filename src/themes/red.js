@@ -1,1 +1,2 @@
-import './red.css';
+import red from './red.css';
+export default red;
